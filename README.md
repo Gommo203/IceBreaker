@@ -2,8 +2,6 @@
 
 **LangChain-based AI Agent for Personalized Conversation Starters**  
 
-Built as part of the **“LangChain – Develop AI Agents with LangChain & LangGraph”** Udemy course by Eden Marco ([Course Link](https://ssmu.udemy.com/course/langchain/)).
-
 ---
 
 ## 📌 Project Overview
